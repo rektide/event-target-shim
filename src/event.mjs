@@ -71,7 +71,6 @@ function setCancelFlag(data) {
 
 /**
  * @see https://dom.spec.whatwg.org/#interface-event
- * @private
  */
 /**
  * The event wrapper.
